@@ -1,3 +1,3 @@
 # firebase_flutter
 
-A new Flutter project.
+BTK akademi üzerinden Google flutter ile mobil uygulama eğitimindeki flutter üzerinden firebase kullanımının bir örnek uygulaması.
